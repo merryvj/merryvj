@@ -1,6 +1,10 @@
-## ヽ(≧◡≦)八(o^ ^o)ノ
+## Yay it works! ヽ(≧◡≦)八(o^ ^o)ノ
 
-### A quick peek:
+Hi, I'm Mary! I've designed and prototyped novel search UIs, AR map apps, and generative new media projects. I recently graduated (May 2023) from Duke University with a B.A. in Computer Science. 
+
+Currently, I'm interested in making tools for personal computing and visualizing information.  
+
+### Recent projects:
 <div>
 
   |<a href="https://github.com/merryvj/toy-components-react"> Toy UI Components </a>  | <a href="https://github.com/merryvj/arena-explorer"> Hypermedia Canvas </a> |
