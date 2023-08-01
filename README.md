@@ -2,7 +2,7 @@
 
 Hi, I'm Mary! I've designed and prototyped novel search UIs, AR map apps, and generative new media projects. I recently graduated (May 2023) from Duke University with a B.A. in Computer Science. 
 
-Currently, I'm interested in making tools for personal computing and visualizing information. My github is a collection of learning projects – a bit haphahazard, but all for the sake of joy and curiosity. 
+Currently, I'm interested in making tools for personal computing and visualizing information. This Github houses my learning projects – a bit haphahazard, but all for the sake of joy and curiosity. 
 
 ### Recent projects:
 <div>
