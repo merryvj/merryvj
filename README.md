@@ -1,6 +1,6 @@
 ## ヽ(≧◡≦)八(o^ ^o)ノ
 
-#### A quick peek:
+### A quick peek:
 <div>
 
   |<a href="https://github.com/merryvj/toy-components-react"> Toy UI Components </a>  | <a href="https://github.com/merryvj/arena-explorer"> Hypermedia Canvas </a> |
